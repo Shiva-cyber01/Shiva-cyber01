@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shiva
-**A passionate Cyber Security || Pentester / Ethical Hacker || 
+|| Ethical Hacker  / Pentester  || Security Researcher  
 
 Email Me 👉 ✉️ **shivsagarverma1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -7,14 +7,14 @@ Email Me 👉 ✉️ **shivsagarverma1@gmail.com** For Collaboration/Project or 
 - 🌱 **I’m currently learning:** Pentester / Ethical Hacker
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-🎓 **Education**  
-**MCA (Master of Computer Applications)**  
-Swaminarayan University
 
 # 💫 About Me:
-Cybersecurity Pentester / Ethical Hacker | MCA Student<br>Passionate about ethical hacking and offensive security.<br>Completed 140+ hands-on labs on TryHackMe, gaining practical experience in web, network, Linux, and Active Directory security.<br>Actively learning, practicing, and sharing cybersecurity knowledge through labs, tools, and projects.
+Ethical Hacker / Pentester with 1.5 years of experience in Bug Bounties and Multidisciplinary
+Testing : Perform Manual and Automate penetration testing across web applications, API, Cloud 
+environments (AWS/AZURE/KUBERNETS), internal/external networks, and operating systems
+(Windows, Active Directory, Linux ). 
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivsagar1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivsagarverma1@gmail.com) 
 
