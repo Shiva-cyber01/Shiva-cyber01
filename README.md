@@ -82,7 +82,7 @@ environments (AWS/AZURE/KUBERNETS), internal/external networks, and operating sy
 
 📌 OWASP Top 10
 
-🧠 MITRE ATT&CK (Basic)
+🧠 MITRE ATT&CK 
 
 🔓 Enumeration & Password Cracking
 
